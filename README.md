@@ -40,8 +40,7 @@
 ### 🌎 Conecte-se comigo  
 
 <div> 
-  <a href="https://www.linkedin.com/in/laviniaribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lavinia.vitoria@ges.inatel.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/laviniaamaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
