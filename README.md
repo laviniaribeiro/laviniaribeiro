@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Lavínia!  <img align="right"  height="125" style="border-radius:50px;" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif"> <br/>
 🎓 Estudante de Engenharia de Software                     
-🚀 **Interesse**: Visão Computacional, Inteligência Artificial e Desenvolvimento Full Stack    
-🌱 **Aprendendo**: Sistemas Distribuídos, Modelos de IA e .NET  
+🚀 **Interesse**: Visão Computacional e Inteligência Artificial   
+🌱 **Aprendendo**: CSS e HTML 
 
 
 ##
